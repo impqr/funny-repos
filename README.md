@@ -3,21 +3,16 @@
 #### 介绍
 本仓库旨在收集全Git的沙雕项目！包括Gitee与GitHub！欢迎参与~
 
-#### 软件架构
-软件架构说明
+#### 沙雕目录
+|  沙雕项目  | 介绍                                                         | 原repo                                                |
+| :--------: | :----------------------------------------------------------- | :---------------------------------------------------- |
+| 春节十二响 | 过年上映了一部电影，叫《流浪地球》，火得一塌糊涂，相信在做不少人都看过。电影里面提到了一个叫“春节十二响”的项目不知道大家还有没有印象？这个沙雕项目就是用C语言实现它的！ | [仓库地址](https://github.com/picasso250/spring12)    |
+|  灭霸脚本  | 《复联3》上映的时候，出了一个新角色，叫灭霸。该角色在剧中堪称是 Bug 般的存在，他轻轻打个响指，整个宇宙就有一半人会消失。因此有个沙雕网友灵机一动，写了个开源的灭霸命令，这个灭霸命令可随机删除电脑上一半文件。 | [仓库地址](https://github.com/hotvulcan/Thanos.sh)    |
+|  十万火急  | 这个 Shell 脚本的作者应该是消防员出身。它的主要作用是，在火灾等突发状况来临时，你可以用该脚本一键切换到新分支，并提交代码，以避免在逃亡时的匆忙提交导致跟线上代码冲突。 | [仓库地址](https://github.com/qw3rtman/git-fire)      |
+|    操！    | 项目名叫[thefuck]，从名字可以看出，项目作者应该是一位暴躁老哥。该项目的主要作用是，在你输错命令后，fuck 一下，自动帮你更正命令，解气又实用。 | [仓库地址](https://github.com/nvbn/thefuck)           |
+|    无码    | 这是来自 Google 的一名工程师创建的一个项目[no code]。这个项目的沙雕之处在于，它里面一行代码都没有。 | [仓库地址](https://github.com/kelseyhightower/nocode) |
 
 
-#### 安装教程
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### 使用说明
-
-1. xxxx
-2. xxxx
-3. xxxx
 
 #### 参与贡献
 
@@ -26,12 +21,3 @@
 3. 提交代码
 4. 新建 Pull Request
 
-
-#### 码云特技
-
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
