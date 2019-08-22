@@ -12,12 +12,12 @@
     - [春节十二响](#春节十二响)
     - [灭霸脚本](#灭霸脚本)
     - [十万火急](#十万火急)
-    - [the fuck](#the fuck)
+    - [thefuck](#thefuck)
     - [无码](#无码)
     - [神探夏洛克，全网查名！](#神探夏洛克，全网查名！)
     - [坤坤打砖块](#坤坤打砖块)
     - [不正经logo生成器](#不正经logo生成器)
-    - [Moji, Moji, Emoji](#Moji, Moji, Emoji)
+    - [Moji,Moji,Emoji](#Moji,Moji,Emoji)
   - [参与贡献](#参与贡献)
 
 ---
@@ -54,7 +54,7 @@
 
 
 
-### the fuck
+### thefuck
 
    [仓库地址](https://github.com/nvbn/thefuck)
 
@@ -106,7 +106,7 @@
 
 
 
-### Moji, Moji, Emoji
+### Moji,Moji,Emoji
 
 [仓库地址](https://github.com/ericandrewlewis/emoji-mosaic)
 
